@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - SafeFlow
+# 📌 Aprendizado por Projeto Integrado - SafeFlow
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
@@ -44,7 +44,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
 * Python (Colab)
 * Mysql
 
