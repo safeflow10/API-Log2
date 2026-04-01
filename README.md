@@ -4,11 +4,13 @@ Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolv
 Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
 
 # 📑 Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Equipe](#Equipe)
-* [Backlog do produto](#Product-Backlog)
+| Seção | Link |
+|------|------|
+| 🎯 Objetivo do Projeto | [Clique aqui](#objetivo-do-projeto) |
+| 👥 Equipe | [Clique aqui](#equipe) |
+| 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Registro das Sprints](#Registro-das-Sprints)
+| 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
 
 
 # Projeto (API) 
