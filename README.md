@@ -3,7 +3,7 @@
 Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolvimento de habilidades essenciais como Proatividade, Autonomia, Colaboração, Gestão de Tempo e Entrega Contínua de Resultados.
 Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
 
-# Índice
+# 📑 Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
