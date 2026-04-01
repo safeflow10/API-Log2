@@ -1,8 +1,7 @@
 # 📌 Aprendizado por Projeto Integrado - SafeFlow
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolvimento de habilidades essenciais como Proatividade, Autonomia, Colaboração, Gestão de Tempo e Entrega Contínua de Resultados.
+Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
