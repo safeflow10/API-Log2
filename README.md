@@ -11,7 +11,6 @@ Todo o processo foi conduzido dentro de um contexto educacional que simula desaf
 | 🗂 Backlog do Produto | [Clique aqui](#backlog-do-produto) |
 | 🛠 Tecnologias Utilizadas | [Clique aqui](#tecnologias-utilizadas) |
 | 📅 Registro das Sprints | [Clique aqui](#registro-das-sprints) |
-* [Competências desenvolvidas](#competências-desenvolvidas)
 
 
 # Projeto (API) 
