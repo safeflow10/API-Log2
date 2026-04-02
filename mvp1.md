@@ -45,16 +45,19 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize os dados centralizados numa interface interativa.  
+- O sistema deve registrar os dados essenciais sobre as rotas, como volume transportado, tipos de carga e principais ODs.  
+- Métricas coletadas: layout claro, tempo razoável de resposta ao usuário, cruzamento de dados intuitivo e simples, dados confiáveis que façam sentido entre si.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP
+- Exigência estabelecidade: mínimo 3 usuários diferentes.
+- Feedback qualitativo (positivo/negativo)
+- Registro do feedback: em aguardo.
+- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)
+-  Registro do feedback: em aguardo.
 
 ---
 
