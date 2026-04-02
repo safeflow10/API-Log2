@@ -13,12 +13,11 @@
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas
-  Uma página inicial limpa com gráficos de colunas e valores claros incluindo valores transportados,
-  regiões, estados e municípios de Origem-Destino entre outras informações essenciais.
+  - Uma página inicial limpa com gráficos de colunas e valores claros incluindo valores transportados, regiões, estados e municípios de Origem-Destino entre outras informações essenciais.
 - Limitações conhecidas
-  Aplicação de filtros mais específicos e confiáveis para uma gestão aprofundada das informações.
+  - Aplicação de filtros mais específicos e confiáveis para uma gestão aprofundada das informações.
 - Escopo reduzido (somente o essencial para validar a ideia)
-  Escopo: a página inicial de um dashboard interativo com as informações básicas.
+  - Escopo: a página inicial de um dashboard interativo com as informações básicas.
 
 ---
 
