@@ -49,8 +49,8 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
+| 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
+| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões                                               | 8          | 1      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
