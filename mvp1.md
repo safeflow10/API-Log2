@@ -53,11 +53,11 @@
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP
-- Exigência estabelecidade: mínimo 3 usuários diferentes.
+  - Exigência estabelecidade: mínimo 3 usuários diferentes.
 - Feedback qualitativo (positivo/negativo)
-- Registro do feedback: em aguardo.
+  - Registro do feedback: em aguardo.
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)
--  Registro do feedback: em aguardo.
+  -  Registro do feedback: em aguardo.
 
 ---
 
