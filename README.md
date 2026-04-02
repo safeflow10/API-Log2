@@ -1,7 +1,6 @@
-# 📌 Aprendizado por Projeto Integrado - SafeFlow
+# 📌 Backlog do Produto - SafeFlow
 
-Projeto desenvolvido com base na metodologia ágil SCRUM, promovendo o desenvolvimento de habilidades essenciais como Proatividade, Autonomia, Colaboração, Gestão de Tempo e Entrega Contínua de Resultados.
-Todo o processo foi conduzido dentro de um contexto educacional que simula desafios reais encontrados na área de Análise de Dados e Business Intelligence.
+Entrega de uma interface interativa que reúne os principais dados sobre movimentação de cargas perigosas, a partir das bases do IBAMA. O produto permitirá uma análise simplificada e intuitiva das informações essenciais como volume movimentado, mapeamento Origem-Destino e aplicação de filtros que enriqueçam a especificidade da análise. Intende-se também identificar as principais empresas movimentadoras destas cargas e a identificação específica dos principais tipos de produtos movimentados.
 
 # 📑 Índice
 | Seção | Link |
@@ -32,12 +31,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # 🎯 Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo a entrega de um produto de visualização de dados, visando:
+* Centralizar dados de movimentação de cargas perigosas;
+* Integração de informações que permitam análise aprofundada;
+* Mapeamento de Origens-Destinos das cargas;
+* Filtros que especifiquem e enriqueçam a análise;
+* Facilitar as fiscalização e gestão de um alto volume de dados num painel interativo.
 
 
 ## 🛠 Tecnologias Utilizadas
@@ -45,8 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Python (Colab)
-* Mysql
+* Python (Visual Studio Code)
 
 
 
@@ -54,7 +52,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
+| 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
 | 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
 | 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
