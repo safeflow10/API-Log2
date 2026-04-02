@@ -50,8 +50,13 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como analista do IPEM, quero visualizar dados confiáveis sobre rotas de cargas perigosas para facilitar a gestão de um alto volume de dados.                                                    | 8          | 1      |
 | 2    | Alta       | Como fiscal do IPEM, quero identificar as principais Origem-Destino para visuaizar áreas de maior risco.                                                                    | 13          | 1      |
-| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões                                               | 8          | 1      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 3    | Alta       | Como analista do IPEM, quero visualizar a evolução temporal dos dados para identificar padrões e fazer previsões.                                               | 8          | 1      |
+| 4    | Baixa      | Como usuário da interface, quero visualizar as bandeiras dos lugares selecionados para facilitar a ilustração.                                                                                                                                                     | 8        | 1    |
+| 5    | Média      | Como usuário da interface, quero várias páginas para navegar entre informações mais específicas da análise.                                                                                                                                                     | 8        | 2    |
+| 6    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 7    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 8    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 9    | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
 
