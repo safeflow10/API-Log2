@@ -70,7 +70,7 @@ Este projeto tem como objetivo a entrega de um produto de visualização de dado
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 |Video              | 29/03/2026 | Finalizado | [Video](https://www.youtube.com/watch?v=m59A55OO_z8) |
-| 01                | 29/04/2026 | Em andamento  | [MVP](https://github.com/safeflow10/API-Log2/blob/main/mvp1.md))  |
+| 01                | 29/04/2026 | Em andamento  | [MVP](https://github.com/safeflow10/API-Log2/blob/main/mvp1.md)  |
 | 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
